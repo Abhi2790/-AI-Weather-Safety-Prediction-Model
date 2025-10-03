@@ -191,4 +191,5 @@ API_KEY = "your_api_key_here"
 ## 👨‍💻 Author
 
 Developed by [Abhishek Kumar] 🚀
+
 MCA (AI/ML) Student | AI & Data Science Enthusiast
