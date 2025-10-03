@@ -40,6 +40,8 @@ This project uses AI & anomaly detection to predict whether it is safe to travel
 
 - Geopy (location → coordinates)
 
+- requests
+
 - WeatherAPI / OpenWeather API (live data)
 
 - Joblib (save & load models)
